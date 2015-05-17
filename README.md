@@ -11,4 +11,4 @@ Word seperation based on different delimiter such as ",/,[,],'... & Case IN-sens
 5) Print the list.
 
 # Java Code with -
-Collection adn Map which solving this problem statement easy and fast.
+Collection adn Map which solving this problem statement with easy operations and efficiently.
