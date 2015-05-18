@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------
-There are total 3991 in the document & 1497 distinct words (case in-sensitive)
+There are total 5489 in the document & 1497 distinct words (case in-sensitive)
 Count : Word
 -------------------------------------------------------------------------------------------
 278: the
@@ -30,10 +30,10 @@ Count : Word
 23: has
 23: its
 23: would
+22: artificial
 22: future
 22: technology
 22: intelligent
-21: artificial
 21: level
 21: machine
 20: could
@@ -735,7 +735,6 @@ Count : Word
 1: programmed
 1: mechanical
 1: mentions
-1: abstract—
 1: final
 1: ban
 1: consequences
@@ -864,7 +863,6 @@ Count : Word
 1: acts
 1: difficult
 1: methodologies
-1: terms—artificial
 1: designed
 1: ai”
 1: significant
@@ -1272,6 +1270,7 @@ Count : Word
 1: 2040
 1: einstein’s
 1: agenda
+1: abstract
 1: application
 1: ourselves
 1: worst
@@ -1349,6 +1348,7 @@ Count : Word
 1: drone
 1: faces
 1: decreasing
+1: terms
 1: poorly
 1: doesn’t
 1: handled
