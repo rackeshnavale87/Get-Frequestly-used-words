@@ -24,7 +24,7 @@ public class MFC
             
             while((ReadLine = bufferR.readLine()) != null)
             {
-                StringTokenizer delimiter = new StringTokenizer(ReadLine, " /,.;,:,\\\",[,],{,},?,(,),!,-,—,\t//\n,/\0,',");
+                StringTokenizer delimiter = new StringTokenizer(ReadLine,", ,/,.;,:,\\\",“,”,[,],{,},?,(,),!,-,—,\t//\n,/\0,',");
                 while(delimiter.hasMoreTokens())
                 {
                     String Temp = delimiter.nextToken().toLowerCase();
