@@ -1,16 +1,16 @@
 -------------------------------------------------------------------------------------------
-There are total 5489 in the document & 1497 distinct words (case in-sensitive)
+There are total 5483 words in the document & 1485 distinct words (case in-sensitive)
 Count : Word
 -------------------------------------------------------------------------------------------
-278: the
+280: the
 188: and
 163: to
 147: of
-131: ai
+132: ai
 91: that
 86: in
 83: is
-67: a
+69: a
 66: we
 65: intelligence
 64: human
@@ -21,8 +21,8 @@ Count : Word
 43: are
 42: with
 40: this
-38: as
-36: can
+39: as
+37: can
 35: for
 30: not
 25: an
@@ -36,12 +36,12 @@ Count : Word
 22: intelligent
 21: level
 21: machine
+21: our
 20: could
 20: by
 20: on
-20: our
+20: machines
 19: most
-19: machines
 19: more
 18: robots
 17: but
@@ -54,6 +54,7 @@ Count : Word
 14: like
 14: many
 14: some
+14: what
 14: they
 14: about
 14: work
@@ -63,7 +64,6 @@ Count : Word
 13: science
 13: self
 13: he
-13: what
 13: from
 12: world
 12: their
@@ -130,7 +130,6 @@ Count : Word
 7: one
 6: processing
 6: efficiency
-6: ”
 6: become
 6: general
 6: end
@@ -150,6 +149,7 @@ Count : Word
 6: researches
 6: create
 6: robotics
+6: race
 6: term
 5: time
 5: right
@@ -165,6 +165,7 @@ Count : Word
 5: action
 5: develop
 5: step
+5: singularity
 5: soon
 5: people
 5: goal
@@ -200,7 +201,6 @@ Count : Word
 5: want
 5: point
 5: based
-5: race
 5: power
 5: ever
 5: rules
@@ -225,7 +225,6 @@ Count : Word
 4: task
 4: problem
 4: daily
-4: singularity
 4: works
 4: quickly
 4: progress
@@ -321,6 +320,7 @@ Count : Word
 3: known
 3: movies
 3: purpose
+3: exist
 3: addition
 3: quite
 3: threat
@@ -446,7 +446,6 @@ Count : Word
 2: advance
 2: energy
 2: limited
-2: “a
 2: etc
 2: entities
 2: complex
@@ -488,7 +487,6 @@ Count : Word
 2: state
 2: currently
 2: receptor
-2: exist
 2: coin
 2: potential
 2: tasks
@@ -537,7 +535,6 @@ Count : Word
 2: age
 2: perfectly
 2: challenges
-2: “the
 2: becomes
 2: theory
 2: achieved
@@ -606,6 +603,7 @@ Count : Word
 1: levels
 1: judgement
 1: video
+1: summoning
 1: else
 1: essential
 1: microphone
@@ -641,7 +639,6 @@ Count : Word
 1: guidelines
 1: grew
 1: mention
-1: machines”
 1: ensure
 1: g
 1: e
@@ -686,7 +683,6 @@ Count : Word
 1: often
 1: orders
 1: fast
-1: demon”
 1: leap
 1: named
 1: bill
@@ -761,7 +757,6 @@ Count : Word
 1: criteria
 1: enormous
 1: helps
-1: “summoning
 1: worried
 1: envision
 1: worries
@@ -771,7 +766,6 @@ Count : Word
 1: stated
 1: physicist
 1: motivations
-1: singularity”
 1: wisdom
 1: since
 1: type
@@ -796,7 +790,6 @@ Count : Word
 1: ben
 1: sectors
 1: countless
-1: “can
 1: presents
 1: solves
 1: lives
@@ -842,6 +835,7 @@ Count : Word
 1: inherently
 1: consistency
 1: supersede
+1: demon
 1: sours
 1: discussing
 1: machine intelligence
@@ -864,7 +858,6 @@ Count : Word
 1: difficult
 1: methodologies
 1: designed
-1: ai”
 1: significant
 1: tesla
 1: worked
@@ -922,7 +915,6 @@ Count : Word
 1: attempt
 1: argues
 1: expectation
-1: “as
 1: children
 1: empowered
 1: race’s
@@ -1060,8 +1052,8 @@ Count : Word
 1: university
 1: abnormal
 1: definition
-1: overcoming
 1: ultimately
+1: overcoming
 1: greatest
 1: gates
 1: permeant
@@ -1110,7 +1102,6 @@ Count : Word
 1: debate
 1: write
 1: vernor
-1: race”
 1: dr
 1: look
 1: sane
@@ -1263,7 +1254,6 @@ Count : Word
 1: mccarthy
 1: 2025
 1: overlooked
-1: exist”
 1: prevail
 1: tuning
 1: receive
@@ -1284,7 +1274,6 @@ Count : Word
 1: discussed
 1: hotel
 1: constitute
-1: “what
 1: collaborative
 1: knew
 1: assure
@@ -1449,7 +1438,6 @@ Count : Word
 1: technically
 1: shape
 1: properties
-1: “our
 1: default
 1: harming
 1: superseded
@@ -1500,5 +1488,5 @@ Count : Word
 1: maculate
 1: occur
 -------------------------------------------------------------------------------------------
-Maximum frueqncy word - [the] : 278 times.
+Maximum frueqncy word - [the] : 280 times.
 -------------------------------------------------------------------------------------------
