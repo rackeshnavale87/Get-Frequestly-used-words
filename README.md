@@ -1,8 +1,7 @@
 # Max-Freq-Word-Sorting-Java-Code
 Max-Freq-Word-Sorting-Java-Code
 
-- <b>High level algorithm:</b>
-
+- <b>High level algorithm:</b><br>
 Word seperation based on different delimiter such as ",/,[,],'... & Case IN-sensitive.<br>
 1) Open document <br>
 2) Use Map and List to seperate the words. O(K) TC consideirng K distinct words.<br>
